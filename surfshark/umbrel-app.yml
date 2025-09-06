@@ -1,0 +1,10 @@
+manifestVersion: 1
+id: ariesbabu-surfshark
+category: VPN
+name: surfshark
+version: "latest"
+tagline: "Surfshark Client"
+description: >-
+  This a Surfshar client.
+icon: https://cdn.brandfetch.io/id_oq1LNMK/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1756485353328
+website: https://surfshark.com/
